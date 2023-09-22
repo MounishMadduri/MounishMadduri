@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... Web Development
 - 💞️ I’m looking to collaborate on ... DSA and Web Dev.
 - 📫 How to reach me ...
-@mounishhhhh - Twitter
 email: mounishgprec@gmail.com
+@Twitter - mounishhhhh
 
 <!---
 MounishMadduri/MounishMadduri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
