@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @MounishMadduri
-- 👀 I’m interested in ... Computational Fluid Dynamics
-- 🌱 I’m currently learning ...OpenFOAM
-- 💞️ I’m looking to collaborate on ...learning OpenFOAM
+- 👀 I’m interested in ... DSA and Web Development
+- 🌱 I’m currently learning ... Web Development
+- 💞️ I’m looking to collaborate on ... DSA and Web Dev.
 - 📫 How to reach me ...
-email: mounish5302@gmail.com
+@mounishhhhh - Twitter
+email: mounishgprec@gmail.com
 
 <!---
 MounishMadduri/MounishMadduri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
